@@ -1,5 +1,5 @@
 # EI-Study
-Here's a **README** file for your GitHub repository that covers the **Virtual Classroom Manager** and the **Six Different Use Cases for Design Patterns**. This README provides clear descriptions and instructions for running the code.
+
 
 ---
 
